@@ -1,0 +1,13 @@
+export(bf.c,
+       bf.c.o,
+       bf.o,
+       bf1,
+       bf2,
+       describe.post,       
+       dirichlet.c,
+       dirichlet.o,
+       draw.bf,
+       draw.post,
+       print.dir.cond,
+       print.dir.ord
+       )
