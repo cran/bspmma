@@ -1,5 +1,5 @@
-8a95ec4dc96495c666173167f549d8a4 *DESCRIPTION
-b1b37ca810f92b6e5193a4535b724d8d *NAMESPACE
+bd6a109587e93e14b28200a10225e2e6 *DESCRIPTION
+95d25fbc5ae9c7ea76dbd9c96bb6475f *NAMESPACE
 ade0f7933d73474447b4b1540a4f3cc9 *R/bayes.constants.R
 db8f6ffc9fc6439f8c6b961a19930cb1 *R/describe.posteriors.R
 cd74769e809fe8f1a2a6dfac157e4826 *R/dir-cond.R
@@ -17,7 +17,7 @@ b944bcd24ba83ae15eb18331a0355a49 *inst/CITATION
 80da632d2bd658b24ce600a75f93bfe5 *man/bf1.Rd
 d405457a8900ad7426ee35f8a83fd330 *man/bf2.Rd
 f6dee66f1562393a7e02e6c0fffe075d *man/breast.17.Rd
-2b6653808b605de1aca2c27d86a3fd6a *man/bspmma-package.Rd
+b17522692c42667caec10ae534370308 *man/bspmma-package.Rd
 47fbd9e32956cd576cd127985c465757 *man/caprie.3grps.Rd
 83baa3131b55056bb739ffcb72ad49ad *man/ddtm.s.Rd
 0502ba946115a6c844e79b84483d640f *man/describe.post.Rd

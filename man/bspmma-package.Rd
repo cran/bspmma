@@ -17,8 +17,8 @@ bspmma: Bayesian Semiparametric Models for Meta-Analysis
 \details{
 \tabular{ll}{
 Package: \tab bspmma\cr
-Version: \tab 0.1-1\cr
-Date: \tab 2012-07-12\cr
+Version: \tab 0.1-2\cr
+Date: \tab 2019-01-19\cr
 License: \tab GPL-2\cr
 LazyLoad: \tab yes\cr
 Built: \tab R 2.9.2; ; 2012-07-13 19:04:37 UTC; unix\cr
@@ -63,7 +63,7 @@ the conditional Dirichlet model described in \cite{Burr and Doss (2005)}.
 The computation of Bayes factors is carried out in functions
 \code{bf1}, \code{bf2}, \code{bf.c}, \code{bf.o}, and \code{bf.c.o},
 which implement a multi-chain algorithm described in \cite{Doss (2012)}.
-  
+
 }
 \author{Deborah Burr
 

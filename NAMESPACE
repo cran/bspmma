@@ -3,11 +3,15 @@ export(bf.c,
        bf.o,
        bf1,
        bf2,
-       describe.post,       
+       describe.post,
        dirichlet.c,
        dirichlet.o,
        draw.bf,
-       draw.post,
-       print.dir.cond,
-       print.dir.ord
+       draw.post
        )
+importFrom("graphics","axis","legend","lines","matplot","par",
+           "plot","points","title")
+importFrom("stats","density","dnorm","dt","pnorm","pt","qnorm",
+           "qt","rbeta","rgamma","rnorm","runif","var")
+S3method(print,dir.cond)
+S3method(print,dir.ord)

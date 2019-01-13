@@ -1,13 +1,13 @@
 Package: bspmma
-Title: bspmma: Bayesian Semiparametric Models for Meta-Analysis
-Version: 0.1-1
-Date: 2012-07-12
+Title: Bayesian Semiparametric Models for Meta-Analysis
+Version: 0.1-2
+Date: 2019-01-12
 Author: Deborah Burr
 Maintainer: Deborah Burr <burr@stat.ufl.edu>
-Description: Some functions for nonparametric and semiparametric
-        Bayesian models for random effects meta-analysis
+Description: The main functions carry out Gibbs' sampler routines for nonparametric and semiparametric Bayesian models for random effects meta-analysis.
 License: GPL-2
 LazyLoad: yes
-Packaged: 2012-07-14 19:06:20 UTC; burr
+NeedsCompilation: no
+Packaged: 2019-01-13 16:46:16 UTC; DebDoss
 Repository: CRAN
-Date/Publication: 2012-07-17 05:15:06
+Date/Publication: 2019-01-13 20:20:03 UTC
